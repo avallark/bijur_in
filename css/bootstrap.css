@@ -33,8 +33,6 @@ html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
-  background-image: url('../img/bgtile-dark.gif');
-  background-repeat: repeat;
 }
 a:focus {
   outline: thin dotted #333;
@@ -142,6 +140,8 @@ body {
   color:#ccc;
 /*  background-color: #000; */
   /*background-color: #ffffff; */
+  background-image: url('../img/bgtile-dark.gif');
+  background-repeat: repeat;
 }
 
 a {
