@@ -1,0 +1,17 @@
+.profilepic {
+    border :none;
+    border-radius: 5px;
+    height : 250px;
+    width: 250px;
+    
+}
+
+.headerBijur{
+    padding: 20px;
+    
+}
+
+.contentBijur{
+    padding: 20px;
+    border: 1px dotted #ccc;
+}
